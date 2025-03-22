@@ -1,0 +1,8 @@
+{
+  "RULE-GLOBAL-NEST-03": {
+    "name": "Max Directory Nesting",
+    "description": "No directory may be nested beyond 3 levels.",
+    "max_depth": 3,
+    "enforced": true
+  }
+}

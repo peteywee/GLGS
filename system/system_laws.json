@@ -1,0 +1,7 @@
+{
+  "ENFORCE_MAX_DEPTH": {
+    "description": "No law may allow nesting beyond 3 levels.",
+    "key": "max_depth",
+    "max_value": 3
+  }
+}
